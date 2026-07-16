@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋, I'm Rabindra Kumar
 
-<!--
-**rabindrakumar9392/rabindrakumar9392** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring Software Engineer
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Currently Learning
+- Java
+- Data Structures & Algorithms
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+### 🎯 Goals
+- Crack FAANG
+- Become Full Stack Developer
+- Build Industry Level Projects
+
+### 🛠️ Tech Stack
+- Java
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+### 📫 Connect with Me
+- GitHub: https://github.com/rabindrakumar9392
+- LeetCode: https://leetcode.com/u/9060123702/
