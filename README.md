@@ -4,26 +4,12 @@ I’m a Computer Science student passionate about problem-solving and building p
 Currently focused on Java, Data Structures & Algorithms, and Full-Stack Web Development.
 I enjoy turning ideas into working projects and continuously improving my development skills.
 
-### 💻 Currently Learning
-- Java
-- Data Structures & Algorithms
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
-
-### 🎯 Goals
-- Crack FAANG
-- Become Full Stack Developer
-- Build Industry Level Projects
-
-### 🛠️ Tech Stack
-- Java
-- HTML
-- CSS
-- JavaScript
-- Git
-- GitHub
+### 🛠️ Skills & Focus
+- **Programming:** Java
+- **Core CS:** Data Structures & Algorithms
+- **Frontend:** HTML, CSS, JavaScript
+- **Tools:** Git & GitHub
+- **Currently Exploring:** Full-Stack Web Development
 
 ### 📫 Connect with Me
 - GitHub: https://github.com/rabindrakumar9392
