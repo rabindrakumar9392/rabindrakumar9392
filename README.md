@@ -1,8 +1,8 @@
 # Hi 👋, I'm Rabindra Kumar
-
-## 🚀 Aspiring Software Engineer
-
-🎓 B.Tech CSE Student
+### B.Tech CSE Student | Java & DSA | Full-Stack Developer in Progress
+I’m a Computer Science student passionate about problem-solving and building practical software projects.
+Currently focused on Java, Data Structures & Algorithms, and Full-Stack Web Development.
+I enjoy turning ideas into working projects and continuously improving my development skills.
 
 ### 💻 Currently Learning
 - Java
