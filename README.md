@@ -20,6 +20,17 @@ I'm a B.Tech Computer Science Engineering student passionate about problem-solvi
 - **Tools:** Git, GitHub, VS Code
 - **Currently Exploring:** Full-Stack Web Development & Artificial Intelligence
 
+ ### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rabindrakumar9392&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabindrakumar9392&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rabindrakumar9392&theme=tokyonight&hide_border=true" />
+</p>
+
 ### 📫 Connect with Me
 
 - GitHub: https://github.com/rabindrakumar9392
