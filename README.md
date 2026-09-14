@@ -31,6 +31,17 @@ I'm a B.Tech Computer Science Engineering student passionate about problem-solvi
   <img src="https://streak-stats.demolab.com?user=rabindrakumar9392&theme=tokyonight&hide_border=true" />
 </p>
 
+### 🚀 Featured Projects
+
+- **Portfolio Website** — Personal developer portfolio built with HTML, CSS and JavaScript.
+  - 🔗 [View Repository](https://github.com/rabindrakumar9392/Portfolio)
+
+- **Java & DSA** — Data Structures and Algorithms practice using Java.
+  - 🔗 [View Repository](https://github.com/rabindrakumar9392/Java-DSA)
+
+- **Mini Projects** — Practical projects built while learning web development.
+  - 🔗 [View Repository](https://github.com/rabindrakumar9392/Mini-Projects)
+    
 ### 📫 Connect with Me
 
 - GitHub: https://github.com/rabindrakumar9392
