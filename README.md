@@ -9,7 +9,7 @@ I enjoy turning ideas into working projects and continuously improving my develo
 - **Core CS:** Data Structures & Algorithms
 - **Frontend:** HTML, CSS, JavaScript
 - **Tools:** Git & GitHub
-- **Currently Exploring:** Full-Stack Web Development
+- **Currently Exploring:** Full-Stack Web Development & Artificial Intelligence
 
 ### 📫 Connect with Me
 - GitHub: https://github.com/rabindrakumar9392
