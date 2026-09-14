@@ -8,7 +8,9 @@ I enjoy turning ideas into working projects and continuously improving my develo
 - **Programming:** Java, JavaScript
 - **Core CS:** Data Structures & Algorithms
 - **Frontend:** HTML, CSS, JavaScript
-- **Tools:** Git & GitHub
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools:** Git, GitHub, VS Code
 - **Currently Exploring:** Full-Stack Web Development & Artificial Intelligence
 
 ### 📫 Connect with Me
