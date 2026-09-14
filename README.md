@@ -5,7 +5,7 @@ Currently focused on Java, Data Structures & Algorithms, and Full-Stack Web Deve
 I enjoy turning ideas into working projects and continuously improving my development skills.
 
 ### 🛠️ Skills & Focus
-- **Programming:** Java
+- **Programming:** Java, JavaScript
 - **Core CS:** Data Structures & Algorithms
 - **Frontend:** HTML, CSS, JavaScript
 - **Tools:** Git & GitHub
